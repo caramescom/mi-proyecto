@@ -1,2 +1,2 @@
 # Mi Proyecto
-## Este es un proyecto de ejemplo para aprender Git y GitHub
+# Este es un proyecto de ejemplo para aprender Git y GitHub
